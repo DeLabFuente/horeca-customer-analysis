@@ -56,12 +56,12 @@ groups and extract insights for business decision-making.
 | VIP Customer | 1 | Extraordinary Fresh consumption |
 
 ## Visualizations
-![Channel Distribution](03_Documentacion/Imagenes/distribucion_canal.png)
-![Average Spending by Channel](03_Documentacion/Imagenes/gasto_medio_canal.png)
-![Correlations](03_Documentacion/Imagenes/correlaciones.png)
-![Elbow Method](03_Documentacion/Imagenes/metodo_codo.png)
-![Clusters](03_Documentacion/Imagenes/clusters.png)
-![Commercial Segmentation](03_Documentacion/Imagenes/segmentacion_comercial.png)
+![Channel Distribution](distribucion_canal.png)
+![Average Spending by Channel](gasto_medio_canal.png)
+![Correlations](correlaciones.png)
+![Elbow Method](metodo_codo.png)
+![Clusters](clusters.png)
+![Commercial Segmentation](segmentacion_comercial.png)
 
 ## Author
 **Daniel Díaz De La Fuente**  
