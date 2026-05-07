@@ -58,12 +58,12 @@ toma de decisiones comerciales.
 | Cliente VIP | 1 | Consumo extraordinario Fresh |
 
 ## Visualizaciones
-![Distribución por Canal](03_Documentacion/Imagenes/distribucion_canal.png)
-![Gasto Medio por Canal](03_Documentacion/Imagenes/gasto_medio_canal.png)
-![Correlaciones](03_Documentacion/Imagenes/correlaciones.png)
-![Método del Codo](03_Documentacion/Imagenes/metodo_codo.png)
-![Clusters](03_Documentacion/Imagenes/clusters.png)
-![Segmentación Comercial](03_Documentacion/Imagenes/segmentacion_comercial.png)
+![Distribución por Canal](distribucion_canal.png)
+![Gasto Medio por Canal](gasto_medio_canal.png)
+![Correlaciones](correlaciones.png)
+![Método del Codo](metodo_codo.png)
+![Clusters](clusters.png)
+![Segmentación Comercial](segmentacion_comercial.png)
 
 ## Autor
 **Daniel Díaz De La Fuente**  
