@@ -153,4 +153,3 @@ Business Analytics with Excel — Johns Hopkins
 > 📥 Notebook completo disponible en este repositorio:
 
 > HORECA\_Customer\_Analysis.ipynb
-
